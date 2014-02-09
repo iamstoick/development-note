@@ -2,20 +2,21 @@ development-note
 ================
 
 Development Notes
+-----------------
 
 Deployment:
 ------------
 
-`Packer` - http://www.packer.io
-`Puppet` - http://puppetlabs.com | https://puphpet.com
-`Vagrant` - http://www.vagrantup.com
-`Virtualbox` - http://www.vagrantup.com
-`Chef` - http://www.opscode.com/chef
-`Rove.io` - http://rove.io
-`DevStack` - http://devstack.org
+1. Packer - http://www.packer.io
+2. Puppet - http://puppetlabs.com | https://puphpet.com
+3. Vagrant - http://www.vagrantup.com
+4. Virtualbox - http://www.vagrantup.com
+5. Chef - http://www.opscode.com/chef
+6. Rove.io - http://rove.io
+7. DevStack - http://devstack.org
 
 Monitoring:
--------------
+-----------
 
 `PHPMemcacheAdmin` - https://code.google.com/p/phpmemcacheadmin/
 `openNMS` - http://www.opennms.org/
@@ -66,7 +67,7 @@ Code Analysis:
 
 
 Linux Utility:
--------------
+--------------
 1. htop
 2. ntop
 3. top
