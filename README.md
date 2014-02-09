@@ -6,7 +6,6 @@ Development Notes
 
 Deployment:
 ------------
-
 1. Packer - http://www.packer.io
 2. Puppet - http://puppetlabs.com | https://puphpet.com
 3. Vagrant - http://www.vagrantup.com
@@ -17,12 +16,11 @@ Deployment:
 
 Monitoring:
 -----------
-
-`PHPMemcacheAdmin` - https://code.google.com/p/phpmemcacheadmin/
-`openNMS` - http://www.opennms.org/
-`Zabbix` - http://www.zabbix.com/
-`Cacti` - http://www.cacti.net/
-`Nagios` - http://www.nagios.org/
+1. PHPMemcacheAdmin - https://code.google.com/p/phpmemcacheadmin/
+2. openNMS - http://www.opennms.org/
+3. Zabbi - http://www.zabbix.com/
+4. Cacti - http://www.cacti.net/
+5. Nagios - http://www.nagios.org/
 
 Administration:
 ---------------
