@@ -49,6 +49,10 @@ Build and Deployment:
 11. Drush
 12. Flyway
 
+Docket Tools:
+------------
+1. Flynn - https://github.com/flynn/pinkerton
+
 Testing:
 --------
 1. Selenium
@@ -95,3 +99,8 @@ Editors:
 4. Gedit
 5. Vim / Vi
 6. Nano
+
+Frontend:
+---------
+1. Strapfork - http://strapfork.com/
+2. Jetstrap - https://jetstrap.com
