@@ -105,3 +105,4 @@ Frontend:
 1. Strapfork - http://strapfork.com/
 2. Jetstrap - https://jetstrap.com
 3. BSCSS - http://bscss.csspatterns.com/
+4. Speedometer - http://browserbench.org/Speedometer/
