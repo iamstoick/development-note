@@ -46,8 +46,7 @@ Build and Deployment:
 8. Vagrant
 9. Docker
 10. Packer
-11. Drush
-12. Flyway
+11. Flyway
 
 Docket Tools:
 ------------
@@ -90,6 +89,10 @@ Linux Utility:
 18. rsync
 19. tailf
 20. watch
+21. nmap
+22. screen
+23. ack
+24. find
 
 Editors:
 --------
@@ -99,6 +102,7 @@ Editors:
 4. Gedit
 5. Vim / Vi
 6. Nano
+7. PhpStorm
 
 Frontend:
 ---------
@@ -106,3 +110,11 @@ Frontend:
 2. Jetstrap - https://jetstrap.com
 3. BSCSS - http://bscss.csspatterns.com/
 4. Speedometer - http://browserbench.org/Speedometer/
+
+Drupal:
+-------
+1. Devel
+2. Drush
+3. Drush Deployment Manager
+4. Simplytest.me
+5. DrupalVDD
