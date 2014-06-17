@@ -21,6 +21,8 @@ Monitoring:
 3. Zabbi - http://www.zabbix.com/
 4. Cacti - http://www.cacti.net/
 5. Nagios - http://www.nagios.org/
+6. NewRelic
+7. DataHog
 
 Administration:
 ---------------
@@ -120,3 +122,29 @@ Drupal:
 5. DrupalVDD
 6. Masquerade
 7. Dreditor
+
+Maps:
+-----
+1. http://mapbuildr.com/
+
+API Builder:
+------------
+1. Firebase - https://www.firebase.com/
+2. MongoLab - https://mongolab.com
+3. APIary - http://apiary.io/
+4. Kimonolabs - https://www.kimonolabs.com/
+
+HTTP Forwarding (Local Tunnel to Web):
+--------------------------------------
+1. Finch - https://meetfinch.com
+2. Ngrok - https://ngrok.com/
+3. Localtunnel - https://localtunnel.me/
+4. Anvil - http://anvilformac.com/ (Can't expose to internet, just within LAN)
+5. Pagekite - https://pagekite.net/
+6. Proxylocal - http://proxylocal.com/
+7. VagrantCloud - https://vagrantcloud.com/
+8. PassageWay - https://www.runscope.com/docs/passageway
+
+Some extra technique:
+$ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
+
