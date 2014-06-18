@@ -144,6 +144,8 @@ HTTP Forwarding (Local Tunnel to Web):
 6. Proxylocal - http://proxylocal.com/
 7. VagrantCloud - https://vagrantcloud.com/
 8. PassageWay - https://www.runscope.com/docs/passageway
+9. Forward - https://forwardhq.com/
+10. Ultrahook - http://www.ultrahook.com/
 
 Some extra technique:
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
