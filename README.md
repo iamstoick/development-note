@@ -150,3 +150,10 @@ HTTP Forwarding (Local Tunnel to Web):
 Some extra technique:
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
 
+Teaching:
+---------
+1. http://open-sankore.org/
+
+
+
+
