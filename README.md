@@ -154,6 +154,10 @@ Teaching:
 ---------
 1. http://open-sankore.org/
 
+Chrome:
+-------
+1. Commandline API - https://developer.chrome.com/devtools/docs/commandline-api#debugfunction
+
 
 
 
