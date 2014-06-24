@@ -122,6 +122,7 @@ Drupal:
 5. DrupalVDD
 6. Masquerade
 7. Dreditor
+8. http://trydrupal8.com/
 
 Maps:
 -----
