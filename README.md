@@ -12,7 +12,9 @@ Deployment:
 4. Virtualbox - http://www.vagrantup.com
 5. Chef - http://www.opscode.com/chef
 6. Rove.io - http://rove.io
-7. DevStack - http://devstack.org
+7. PuPHPet - http://puphpet.com
+8. DevStack - http://devstack.org
+9. GetProtobox - http://getprotobox.com/
 
 Monitoring:
 -----------
