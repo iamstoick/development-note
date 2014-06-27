@@ -84,7 +84,7 @@ Linux Utility:
 9. fgrep
 10. netstat
 11. whois
-12. whoami, 
+12. whoami,
 13. vmstat
 14. trap
 15. atop
@@ -126,6 +126,12 @@ Drupal:
 7. Dreditor
 8. http://trydrupal8.com/
 
+Drupal Hosting:
+---------------
+1. Acquia
+2. Pantheon
+2. Platform.sh
+
 Maps:
 -----
 1. http://mapbuildr.com/
@@ -149,6 +155,11 @@ HTTP Forwarding (Local Tunnel to Web):
 8. PassageWay - https://www.runscope.com/docs/passageway
 9. Forward - https://forwardhq.com/
 10. Ultrahook - http://www.ultrahook.com/
+
+Real-Time Engine:
+---------------
+1. Ratchet - http://socketo.me/
+2. http://socket.io/
 
 Some extra technique:
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
