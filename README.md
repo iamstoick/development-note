@@ -172,6 +172,12 @@ Chrome:
 -------
 1. Commandline API - https://developer.chrome.com/devtools/docs/commandline-api#debugfunction
 
+SVN Tip:
+--------
+`svn status | grep -e '^ G     ' | awk '{print $2}' | xargs svn revert`
+
+Git Tip:
+--------
 
 
 
