@@ -118,6 +118,12 @@ Build and Deployment:
 * Packer
 * Flyway
 
+Packaging:
+----------
+* [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
+* [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
+* [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
+
 NoSQL:
 ------
 * Column-Family
@@ -264,5 +270,6 @@ SVN Tip:
 Git Tip:
 --------
 
-
-
+Credits:
+--------
+* [kahun](https://github.com/kahun/awesome-sysadmin)
