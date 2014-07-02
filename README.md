@@ -51,6 +51,17 @@ Monitoring:
 * [AppDynamics](http://www.appdynamics.com/) - AppDynamics is the next generation application performance management solution that simplifies the management of complex, business-critical apps.
 * [Site 24x7](https://www.site24x7.com/) - Web Infrastructure monitoring service.
 
+Log Management:
+---------------
+
+* [Logstash](http://logstash.net/) - Tool for managing events and logs.
+* [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
+* [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
+* [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
+* [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
+* [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
+
 Administration:
 ---------------
 * Webmin
