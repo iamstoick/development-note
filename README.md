@@ -42,6 +42,14 @@ Monitoring:
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
+* [Scout](https://scoutapp.com/) - Server Monitoring built for developers.
+* [Pingdom](https://www.pingdom.com/) - Pingdom is an essential tool for tracking the performance and uptime of website/server.
+* [AppFirst](http://www.appfirst.com/) - Complete visibility for the modern data center.
+* [Librato](https://metrics.librato.com/) - Librato provides a cloud-based service for devops, development and operations teams, allowing you to monitor and understand the metrics that impact your business at all levels of the stack.
+* [AlertBot Website Monitoring](http://www.alertbot.com/) - AlertBot is an industry leader in website and server monitoring service.
+* [Dotcom-Monitor](http://www.dotcom-monitor.com/) - Dotcom-Monitor instantly alerts you when your website has problems.
+* [AppDynamics](http://www.appdynamics.com/) - AppDynamics is the next generation application performance management solution that simplifies the management of complex, business-critical apps.
+* [Site 24x7](https://www.site24x7.com/) - Web Infrastructure monitoring service.
 
 Administration:
 ---------------
