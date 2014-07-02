@@ -95,7 +95,7 @@ LDAP:
 OpenLDAP.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
-* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on
+* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on  OpenLDAP.
 
 Version Control:
 ----------------
@@ -252,7 +252,16 @@ Real-Time Engine:
 * [Ratchet](http://socketo.me/)
 * [SocketIO](http://socket.io/)
 
+Newsletters:
+------------
+* [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
+* [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
+* [phpList](http://www.phplist.com/) - phpList is one of the most popular open source mailing list manager that has a capability of sending newsletters, news, messages to a huge number of subscribers.
+* [OpenEMM](http://www.openemm.org/) - OpenEMM is a feature-rich web-based enterprise application for email marketing, newsletters and service mails (transaction mails and event or time triggered mails).
+
+
 Some extra technique:
+---------------------
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
 
 Teaching:
