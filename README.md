@@ -53,7 +53,6 @@ Monitoring:
 
 Log Management:
 ---------------
-
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
 * [Elasticsearch](http://www.elasticsearch.org/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - Visualize logs and time-stamped data.
@@ -66,6 +65,17 @@ Administration:
 ---------------
 * Webmin
 * Foreman
+
+LDAP:
+-----
+* [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+* [389 Directory Server](http://port389.org) - Developed by Red Hat.
+* [OpenDS](https://opends.java.net/) - Another directory server written in Java.
+* [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+OpenLDAP.
+* [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
+* [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
+* [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on
 
 Version Control:
 ----------------
