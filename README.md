@@ -118,7 +118,26 @@ Build and Deployment:
 * Packer
 * Flyway
 
-Docket Tools:
+NoSQL:
+------
+* Column-Family
+  * [Apache HBase](http://hbase.apache.org/) - Hadoop database, a distributed, big data store.
+  * [Cassandra](http://cassandra.apache.org/) - Distributed DBMS designed to handle large amounts of data across many servers.
+* Document Store
+  * [CouchDB](http://couchdb.apache.org/) - Ease of use, with multi-master replication document-oriented database system.
+  * [ElasticSearch](http://www.elasticsearch.org/) - Java based database, popular with log aggregation, and email archiving projects.
+  * [MongoDB](http://www.mongodb.org/) - Another document-oriented database system.
+  * [RavenDB](http://ravendb.net/) - Document based database with ACID/Transactional features.
+  * [RethinkDB](http://www.rethinkdb.com/) - Open source distributed document store database, focuses on JSON.
+* Graph
+  * [FlockDB](https://github.com/twitter/flockdb) - Twitter's distributed, fault-tolerant graph database.
+  * [Neo4j](http://www.neo4j.org/) - Open source graph database.
+* Key-Value
+  * [LevelDB](https://code.google.com/p/leveldb/) - Google's high performance key/value database.
+  * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
+  * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
+
+Docker Tools:
 ------------
 * [Flynn](https://github.com/flynn/pinkerton)
 
