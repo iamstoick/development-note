@@ -16,6 +16,12 @@ Deployment:
 * [DevStack](http://devstack.org)
 * [GetProtobox](http://getprotobox.com/)
 
+Network Management:
+-------------------
+* [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
+* [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
+* [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+
 Monitoring:
 -----------
 * [PHPMemcacheAdmin](https://code.google.com/p/phpmemcacheadmin/) - This program allows to see in real-time (top-like) or from the start of the server, stats for get, set, delete, increment, decrement, evictions, reclaimed, cas command, as well as server stats (network, items, server version) with googlecharts and server internal configuration.
