@@ -6,171 +6,188 @@ Development Notes
 
 Deployment:
 ------------
-1. Packer - http://www.packer.io
-2. Puppet - http://puppetlabs.com | https://puphpet.com
-3. Vagrant - http://www.vagrantup.com
-4. Virtualbox - http://www.vagrantup.com
-5. Chef - http://www.opscode.com/chef
-6. Rove.io - http://rove.io
-7. PuPHPet - http://puphpet.com
-8. DevStack - http://devstack.org
-9. GetProtobox - http://getprotobox.com/
+* [Packer](http://www.packer.io)
+* [Puppet](http://puppetlabs.com/)
+* [Vagrant](http://www.vagrantup.com)
+* [Virtualbox](http://www.vagrantup.com)
+* [Chef](http://www.opscode.com/chef)
+* [Rove.io](http://rove.io)
+* [PuPHPet](http://puphpet.com)
+* [DevStack](http://devstack.org)
+* [GetProtobox](http://getprotobox.com/)
 
 Monitoring:
 -----------
-1. PHPMemcacheAdmin - https://code.google.com/p/phpmemcacheadmin/
-2. openNMS - http://www.opennms.org/
-3. Zabbi - http://www.zabbix.com/
-4. Cacti - http://www.cacti.net/
-5. Nagios - http://www.nagios.org/
-6. NewRelic
-7. DataHog
+* [PHPMemcacheAdmin](https://code.google.com/p/phpmemcacheadmin/) - This program allows to see in real-time (top-like) or from the start of the server, stats for get, set, delete, increment, decrement, evictions, reclaimed, cas command, as well as server stats (network, items, server version) with googlecharts and server internal configuration.
+* [openNMS](http://www.opennms.org/) - OpenNMS is the world’s first enterprise grade network management application platform developed under the open source model.
+* [Nagios](http://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
+* [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
+* [New Relic](http://newrelic.com/) - Offers a performance management solution enabling developers to diagnose and fix application performance problems in real time.
+* [Datadog](https://www.datadoghq.com/) – Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight.
+* [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
+* [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
+* [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
+* [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
+* [Icinga](https://www.icinga.org/) - Fork of Nagios.
+* [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
+* [Monit](http://mmonit.com/monit/#home) - Small Open Source utility for managing and monitoring Unix systems.
+* [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
+* [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
+* [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
+* [Opsview](http://www.opsview.com/solutions/core) - Based on Nagios 4, Opsview Core is ideal for small IT and test environments.
+* [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
+* [Sensu](http://sensuapp.org/) - Open source monitoring framework.
+* [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
+* [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+* [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
+* [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
 
 Administration:
 ---------------
-1. Webmin
-2. Foreman
+* Webmin
+* Foreman
 
 Version Control:
 ----------------
-1. Git
-2. SVN
-3. Mercurial
-4. CVS
+* Git
+* SVN
+* Mercurial
+* CVS
 
 Build and Deployment:
 ---------------------
-1. Maven
-2. Jenkins / Hudson
-3. Capistrano
-4. Chef
-5. Puppet
-6. Mcollective
-7. Ansible
-8. Vagrant
-9. Docker
-10. Packer
-11. Flyway
+* Maven
+* Jenkins / Hudson
+* Capistrano
+* Chef
+* Puppet
+* Mcollective
+* Ansible
+* Vagrant
+* Docker
+* Packer
+* Flyway
 
 Docket Tools:
 ------------
-1. Flynn - https://github.com/flynn/pinkerton
+* [Flynn](https://github.com/flynn/pinkerton)
 
 Testing:
 --------
-1. Selenium
-2. JMeter
-3. Mercury
-4. Apache AB
-5. Siege
-6. Simpletest
+* Selenium
+* JMeter
+* Mercury
+* Apache AB
+* Siege
+* Simpletest
 
 Code Analysis:
 --------------
-1. Code Sniffer
-2. Sonar
-
+* Code Sniffer
+* Sonar
 
 Linux Utility:
 --------------
-1. htop
-2. ntop
-3. top
-4. mytop
-5. grep
-6. awk
-7. sed
-8. tree
-9. fgrep
-10. netstat
-11. whois
-12. whoami,
-13. vmstat
-14. trap
-15. atop
-16. apachetop
-17. nmon
-18. rsync
-19. tailf
-20. watch
-21. nmap
-22. screen
-23. ack
-24. find
+* htop
+* ntop
+* top
+* mytop
+* grep
+* awk
+* sed
+* tree
+* fgrep
+* netstat
+* whois
+* whoami,
+* vmstat
+* trap
+* atop
+* apachetop
+* nmon
+* rsync
+* tailf
+* watch
+* nmap
+* screen
+* ack
+* find
+* bash
 
 Editors:
 --------
-1. Geany
-2. Sublime
-3. Eclipse
-4. Gedit
-5. Vim / Vi
-6. Nano
-7. PhpStorm
+* Geany
+* Sublime
+* Eclipse
+* Gedit
+* Vim / Vi
+* Nano
+* PhpStorm
 
 Frontend:
 ---------
-1. Strapfork - http://strapfork.com/
-2. Jetstrap - https://jetstrap.com
-3. BSCSS - http://bscss.csspatterns.com/
-4. Speedometer - http://browserbench.org/Speedometer/
+* [Strapfork](http://strapfork.com/)
+* [Jetstrap](https://jetstrap.com)
+* [BSCSS](http://bscss.csspatterns.com/)
+* [Speedometer](http://browserbench.org/Speedometer/)
 
 Drupal:
 -------
-1. Devel
-2. Drush
-3. Drush Deployment Manager
-4. Simplytest.me
-5. DrupalVDD
-6. Masquerade
-7. Dreditor
-8. http://trydrupal8.com/
+* Devel
+* Drush
+* Drush Deployment Manager
+* Simplytest.me
+* DrupalVDD
+* Masquerade
+* Dreditor
+* [TryDrupal8](http://trydrupal8.com/)
 
 Drupal Hosting:
 ---------------
-1. Acquia
-2. Pantheon
-2. Platform.sh
+* [Acquia](http://acquia.com/)
+* [Pantheon](http://getpantheon.com)
+* [Platform.sh](http://platform.sh)
 
 Maps:
 -----
-1. http://mapbuildr.com/
+* [MapBuildr](http://mapbuildr.com/)
 
 API Builder:
 ------------
-1. Firebase - https://www.firebase.com/
-2. MongoLab - https://mongolab.com
-3. APIary - http://apiary.io/
-4. Kimonolabs - https://www.kimonolabs.com/
+* [Firebase](https://www.firebase.com/)
+* [MongoLab](https://mongolab.com/)
+* [APIary](http://apiary.io/)
+* [Kimonolabs](https://www.kimonolabs.com/)
 
 HTTP Forwarding (Local Tunnel to Web):
 --------------------------------------
-1. Finch - https://meetfinch.com
-2. Ngrok - https://ngrok.com/
-3. Localtunnel - https://localtunnel.me/
-4. Anvil - http://anvilformac.com/ (Can't expose to internet, just within LAN)
-5. Pagekite - https://pagekite.net/
-6. Proxylocal - http://proxylocal.com/
-7. VagrantCloud - https://vagrantcloud.com/
-8. PassageWay - https://www.runscope.com/docs/passageway
-9. Forward - https://forwardhq.com/
-10. Ultrahook - http://www.ultrahook.com/
+* [Finch](https://meetfinch.com/)
+* [Ngrok](https://ngrok.com/)
+* [Localtunnel](https://localtunnel.me/)
+* [Anvil](http://anvilformac.com/) - Can't expose to internet, just within LAN.
+* [Pagekite](https://pagekite.net/)
+* [Proxylocal](http://proxylocal.com/)
+* [VagrantCloud](https://vagrantcloud.com/)
+* [PassageWay](https://www.runscope.com/docs/passageway)
+* [Forward](https://forwardhq.com/)
+* [Ultrahook](http://www.ultrahook.com/)
 
 Real-Time Engine:
 ---------------
-1. Ratchet - http://socketo.me/
-2. http://socket.io/
+* [Ratchet](http://socketo.me/)
+* [SocketIO](http://socket.io/)
 
 Some extra technique:
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
 
 Teaching:
 ---------
-1. http://open-sankore.org/
+* [Open Sankore](http://open-sankore.org/)
 
 Chrome:
 -------
-1. Commandline API - https://developer.chrome.com/devtools/docs/commandline-api#debugfunction
+* [Commandline API](https://developer.chrome.com/devtools/docs/commandline-api#debugfunction)
 
 SVN Tip:
 --------
