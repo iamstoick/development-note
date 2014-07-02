@@ -51,6 +51,20 @@ Monitoring:
 * [AppDynamics](http://www.appdynamics.com/) - AppDynamics is the next generation application performance management solution that simplifies the management of complex, business-critical apps.
 * [Site 24x7](https://www.site24x7.com/) - Web Infrastructure monitoring service.
 
+Metric & Metric Collection:
+---------------------------
+* [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
+* [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
+* [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [Collectd](http://collectd.org/) - System statistic collection daemon.
+* [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
+* [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
+* [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
+* [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
+* [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+* [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
+* [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
+
 Log Management:
 ---------------
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
