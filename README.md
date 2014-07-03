@@ -206,10 +206,21 @@ SMTP:
 
 Version Control:
 ----------------
-* Git
-* SVN
-* Mercurial
-* CVS
+* [Fossil](http://www.fossil-scm.org/) - Distributed version control with built-in wiki and bug tracking.
+* [Git](http://git-scm.com/) - Distributed revision control and source code management (SCM) with an emphasis on speed.
+* [GNU Bazaar](http://bazaar.canonical.com/) - Distributed revision control system sponsored by Canonical.
+* [Mercurial](http://mercurial.selenic.com/) - Another distributed revision control.
+* [Subversion](http://subversion.apache.org/) - Client-server revision control system.
+
+
+VPN:
+----
+* [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
+* [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
+* [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
+* [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
+* [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
+* [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 
 
 Packaging:
