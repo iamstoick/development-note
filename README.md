@@ -235,6 +235,16 @@ Distributed Filesystems:
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 
+Cloud Storage:
+-----------------
+* [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
+* [ownCloud](ht+ - Provides universal access to your files via the web, your computer or your mobile devices.
+* [Seafile](http://seafile.com) - Another Open Source Cloud Storage solution.
+* [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
+* [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
+* [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+
+
 Collaborative Software:
 -----------------------
 * [Citadel/UX](http://www.citadel.org/) - Collaboration suite (messaging and groupware) that is descended from the Citadel family of programs.
