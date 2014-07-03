@@ -242,6 +242,15 @@ Web:
 * [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
 
 
+Wikis:
+------
+* [DokuWiki](https://www.dokuwiki.org/dokuwiki) - Simple to use and highly versatile wiki that doesn't require a database.
+* [ikiwiki](http://ikiwiki.info/) - A wiki compiler.
+* [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki) - Used to power Wikipedia.
+* [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
+* [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
+
+
 Packaging:
 ----------
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
