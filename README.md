@@ -1,20 +1,41 @@
-development-note
-================
+Software Development Notes
+==========================
 
-Development Notes
------------------
+## Please fork and contribute.
 
-Deployment:
-------------
-* [Packer](http://www.packer.io)
-* [Puppet](http://puppetlabs.com/)
-* [Vagrant](http://www.vagrantup.com)
-* [Virtualbox](http://www.vagrantup.com)
-* [Chef](http://www.opscode.com/chef)
-* [Rove.io](http://rove.io)
-* [PuPHPet](http://puphpet.com)
-* [DevStack](http://devstack.org)
-* [GetProtobox](http://getprotobox.com/)
+Orchestration & DevOps Tools:
+-----------------------------
+* [Packer](http://www.packer.io) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Puppet](http://puppetlabs.com/) - Server automation framework and application
+* [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
+* [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+* [Chef](http://www.opscode.com/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* [Rove.io](http://rove.io) - Rove.io is a service that allows you to pregenerate typical Vagrant builds.
+* [PuPHPet](http://puphpet.com) - A simple GUI to set up virtual machines for Web development.
+* [DevStack](http://devstack.org) - A documented shell script to build complete OpenStack development environments.
+* [GetProtobox](http://getprotobox.com/) - Protobox is a layer on top of vagrant and a web GUI to setup virtual machines for web development. A single YAML document controls everything that is installed on the virtual machine.
+* [Ansible](http://www.ansible.com/) - Ansible is an open-source software platform for configuring and managing computers. It combines multi-node software deployment, ad hoc task execution, and configuration management.
+* [Mcollective](http://puppetlabs.com/mcollective) - The Marionette Collective AKA MCollective is a framework to build server orchestration or parallel job execution systems.
+
+Continuous Integration:
+-----------------------
+* [Jenkins](http://jenkins-ci.org/) - Extensible continuous integration server.
+* [Hudson](http://hudson-ci.org/) - Extensible continuous integration server.
+* [Apache Continuum](http://continuum.apache.org/) - Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems.
+* [Apache Gump](http://gump.apache.org/) - Continuous integration tool.
+* [Travis CI](https://travis-ci.org/) - A distributed build system for the open source community.
+* [CruiseControl.rb](http://cruisecontrolrb.thoughtworks.com/) - Lightweight, Ruby-based continuous integration server that can build any codebase, not only Ruby; released under Apache Licence 2.0.
+* [CABIE](https://code.google.com/p/cabie/) - (Continuous Automated Build and Integration Environment) Open source, written in Perl.
+* [Buildbot](http://buildbot.net/) - Python/Twisted-based continuous build system.
+* [CruiseControl](http://cruisecontrol.sourceforge.net/) - CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process.
+
+Build and Deployment:
+---------------------
+* [Maven](http://maven.apache.org/) - Apache Maven is a software project management and comprehension tool.
+* [Capistrano](http://capistranorb.com/) - A remote server automation and deployment tool written in Ruby.
+* [Docker](http://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+* [Flyway](http://flywaydb.org/) - Flyway is an open-source database migration tool.
+* [Gradle](http://www.gradle.org/) - Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
 
 Network Management:
 -------------------
@@ -101,6 +122,7 @@ Physical Server & VM Management:
 * [Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers.
 * [Forego](https://github.com/ddollar/forego) - Foreman in Go
 * [Honcho](https://pypi.python.org/pypi/honcho) - a python clone of Foreman. For managing Procfile-based applications.
+* [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
 
 Linux Managers & Hosting Control Panels:
 -----------------------
@@ -129,20 +151,6 @@ Version Control:
 * SVN
 * Mercurial
 * CVS
-
-Build and Deployment:
----------------------
-* Maven
-* Jenkins / Hudson
-* Capistrano
-* Chef
-* Puppet
-* Mcollective
-* Ansible
-* Vagrant
-* Docker
-* Packer
-* Flyway
 
 Packaging:
 ----------
@@ -234,14 +242,15 @@ Frontend:
 
 Drupal:
 -------
-* Devel
-* Drush
-* Drush Deployment Manager
-* Simplytest.me
-* DrupalVDD
-* Masquerade
-* Dreditor
-* [TryDrupal8](http://trydrupal8.com/)
+* [Devel](https://www.drupal.org/project/devel) - A suite of modules containing fun for module developers and themers.
+* [Drush](https://www.drupal.org/project/drush) - Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
+* [Drush Deployment Manager](https://www.drupal.org/project/drush_deployment) - This module is focused on deployment of drupal instances using tags. You can deploy using github repo
+from any branches and tag it per deployment. If deployment status is not ok you can roll back to any previous tags.
+* [Simplytest.me](http://simplytest.me/) - Evaluate Drupal projects online
+* [DrupalVDD](https://github.com/x-team/vdd) - Vagrant Drupal Development (VDD) is fully configured and ready to use development environment built with VirtualBox, Vagrant, Linux and Chef Solo provisioner.
+* [Masquerade](https://www.drupal.org/project/masquerade) - The masquerade module is designed as a tool for site designers and site administrators. It allows a user with the right permissions to switch users.
+* [Dreditor](https://dreditor.org/) - Dreditor (short for "Drupal editor" and pronounced /'dɹɛdɪtə/) started as a simple idea for a (greasemonkey) browser user script to help module maintainers, Drupal core maintainers, and developers in general to review patches on http://drupal.org.
+* [TryDrupal8](http://trydrupal8.com/) - An online Drupal 8 sandbox.
 
 Drupal Hosting:
 ---------------
@@ -285,6 +294,40 @@ Newsletters:
 * [phpList](http://www.phplist.com/) - phpList is one of the most popular open source mailing list manager that has a capability of sending newsletters, news, messages to a huge number of subscribers.
 * [OpenEMM](http://www.openemm.org/) - OpenEMM is a feature-rich web-based enterprise application for email marketing, newsletters and service mails (transaction mails and event or time triggered mails).
 
+Software Development Methodologies:
+-----------------------------------
+* Waterfall
+* Prototype model
+* Incremental
+* Iterative
+* V-Model
+* Spiral
+* Scrum
+* Cleanroom
+* RAD
+* DSDM
+* UP
+* XP
+* Agile
+* Lean
+* Dual Vee Model
+* TDD
+* BDD
+* FDD
+* DDD
+* MDD
+
+Software Development Core Activities:
+-------------------------------------
+* [Requirements](http://en.wikipedia.org/wiki/Requirements_analysis) - Encompasses those tasks that go into determining the needs or conditions to meet for a new or altered product, taking account of the possibly conflicting requirements of the various stakeholders, analyzing, documenting, validating and managing software or system requirements.
+* [Specification](http://en.wikipedia.org/wiki/Functional_specification) - A document that clearly and accurately describes the essential technical requirements for items, materials, or services including the procedures by which it can be determined that the requirements have been met.
+* [Architecture](http://en.wikipedia.org/wiki/Software_architecture) - Set of structures needed to reason about the software system, which comprises the software elements, the relations between them, and the properties of both elements and relations.
+* [Construction](http://en.wikipedia.org/wiki/Software_construction) - It is the detailed creation of working, meaningful software through a combination of coding, verification, unit testing, integration testing, and debugging.
+* [Design](http://en.wikipedia.org/wiki/Software_design) - The process by which an agent creates a specification of a software artifact, intended to accomplish goals, using a set of primitive components and subject to constraints.
+* [Testing](http://en.wikipedia.org/wiki/Software_testing) - An investigation conducted to provide stakeholders with information about the quality of the product or service under test.
+* [Debugging](http://en.wikipedia.org/wiki/Debugging) - A methodical process of finding and reducing the number of bugs, or defects, in a computer program or a piece of electronic hardware, thus making it behave as expected.
+* [Deployment](http://en.wikipedia.org/wiki/Software_deployment) - All of the activities that make a software system available for use.
+* [Maintenance](http://en.wikipedia.org/wiki/Software_maintenance) - The modification of a software product after delivery to correct faults, to improve performance or other attributes.
 
 Some extra technique:
 ---------------------
