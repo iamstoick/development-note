@@ -16,6 +16,10 @@ Orchestration, Configuration Management & DevOps Tools:
 * [GetProtobox](http://getprotobox.com/) - Protobox is a layer on top of vagrant and a web GUI to setup virtual machines for web development. A single YAML document controls everything that is installed on the virtual machine.
 * [Ansible](http://www.ansible.com/) - Ansible is an open-source software platform for configuring and managing computers. It combines multi-node software deployment, ad hoc task execution, and configuration management.
 * [Mcollective](http://puppetlabs.com/mcollective) - The Marionette Collective AKA MCollective is a framework to build server orchestration or parallel job execution systems.
+* [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
+* [Salt](http://www.saltstack.com/) - It's written in Python.
+* [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
+* [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 
 
 Continuous Integration:
