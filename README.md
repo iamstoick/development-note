@@ -91,6 +91,7 @@ Metric & Metric Collection:
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
 * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Open source industry standard, high performance data logging and graphing system for time series data.
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
+* [StatHat](http://www.stathat.com/) - StatHat is a custom stat tracking tool. One line of code gets you beautiful charts, automatic alerts, and more.
 
 Log Management:
 ---------------
