@@ -235,6 +235,18 @@ Distributed Filesystems:
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 
+RDBMS:
+------
+* [Firebird](http://www.firebirdsql.org/) - True universal open source database.
+* [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
+* [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
+* [MySQL](http://dev.mysql.com/) - Most popular RDBMS server.
+* [Percona Server](http://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
+* [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
+* [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based database cluster.
+* [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
+
+
 Cloning:
 --------
 * [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
