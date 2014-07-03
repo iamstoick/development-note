@@ -186,6 +186,18 @@ OpenLDAP.
 * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on  OpenLDAP.
 
 
+SMTP:
+-----
+* [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
+* [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
+* [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
+* [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
+* [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
+
+
 Version Control:
 ----------------
 * Git
