@@ -460,6 +460,12 @@ Ticketing systems:
 * [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
 
+Troubleshooting:
+----------------
+* [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
+* [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
+
+
 Software Development Methodologies:
 -----------------------------------
 * Waterfall
