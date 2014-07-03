@@ -8,7 +8,6 @@ Orchestration, Configuration Management & DevOps Tools:
 * [Packer](http://www.packer.io) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Puppet](http://puppetlabs.com/) - Server automation framework and application
 * [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
-* [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 * [Chef](http://www.opscode.com/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 * [Rove.io](http://rove.io) - Rove.io is a service that allows you to pregenerate typical Vagrant builds.
 * [PuPHPet](http://puphpet.com) - A simple GUI to set up virtual machines for Web development.
@@ -53,6 +52,13 @@ Build and Deployment:
 * [Docker](http://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 * [Flyway](http://flywaydb.org/) - Flyway is an open-source database migration tool.
 * [Gradle](http://www.gradle.org/) - Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
+
+
+Software Containers:
+--------------------
+* [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
+* [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+* [Virtualbox](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 
 Network Management:
@@ -440,6 +446,18 @@ Newsletters:
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 * [phpList](http://www.phplist.com/) - phpList is one of the most popular open source mailing list manager that has a capability of sending newsletters, news, messages to a huge number of subscribers.
 * [OpenEMM](http://www.openemm.org/) - OpenEMM is a feature-rich web-based enterprise application for email marketing, newsletters and service mails (transaction mails and event or time triggered mails).
+
+
+Ticketing systems:
+------------------
+* [Bugzilla](http://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
+* [Cerb](http://www.cerberusweb.com/) - A group-based e-mail management project built with a commercial open source license.
+* [Flyspray](http://flyspray.org) - Web-based bug tracking system written in PHP.
+* [MantisBT](http://www.mantisbt.org/) - Another web-based bug tracking system.
+* [osTicket](http://osticket.com/) - Open source support ticket system.
+* [Otrs](http://www.otrs.com/) - A free and open-source trouble ticket system software package that a company, organization, or other entity can use to assign tickets to incoming queries and track further communications about them.
+* [Request Tracker](http://www.bestpractical.com/rt/) - Ticket-tracking system written in Perl.
+* [TheBugGenie](http://www.thebuggenie.com) - Open source ticket system with extremely complete users rights granularity.
 
 
 Software Development Methodologies:
