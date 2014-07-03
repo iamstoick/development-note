@@ -3,8 +3,8 @@ Software Development Notes
 
 ## Please fork and contribute.
 
-Orchestration & DevOps Tools:
------------------------------
+Orchestration, Configuration Management & DevOps Tools:
+-------------------------------------------------------
 * [Packer](http://www.packer.io) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Puppet](http://puppetlabs.com/) - Server automation framework and application
 * [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
@@ -17,10 +17,11 @@ Orchestration & DevOps Tools:
 * [Ansible](http://www.ansible.com/) - Ansible is an open-source software platform for configuring and managing computers. It combines multi-node software deployment, ad hoc task execution, and configuration management.
 * [Mcollective](http://puppetlabs.com/mcollective) - The Marionette Collective AKA MCollective is a framework to build server orchestration or parallel job execution systems.
 
+
 Continuous Integration:
 -----------------------
-* [Jenkins](http://jenkins-ci.org/) - Extensible continuous integration server.
-* [Hudson](http://hudson-ci.org/) - Extensible continuous integration server.
+* [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
+* [Hudson](http://hudson-ci.org/) - An extendable open source continuous integration server.
 * [Apache Continuum](http://continuum.apache.org/) - Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems.
 * [Apache Gump](http://gump.apache.org/) - Continuous integration tool.
 * [Travis CI](https://travis-ci.org/) - A distributed build system for the open source community.
@@ -28,6 +29,10 @@ Continuous Integration:
 * [CABIE](https://code.google.com/p/cabie/) - (Continuous Automated Build and Integration Environment) Open source, written in Perl.
 * [Buildbot](http://buildbot.net/) - Python/Twisted-based continuous build system.
 * [CruiseControl](http://cruisecontrol.sourceforge.net/) - CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process.
+* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
+* [Go](http://www.go.cd/) - Open source agile build and release management software.
+* [Vlad the Deployer](http://rubyhitsquad.com/Vlad_the_Deployer.html) - Deployment automation.
+
 
 Build and Deployment:
 ---------------------
@@ -37,11 +42,13 @@ Build and Deployment:
 * [Flyway](http://flywaydb.org/) - Flyway is an open-source database migration tool.
 * [Gradle](http://www.gradle.org/) - Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
 
+
 Network Management:
 -------------------
 * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
 * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
 * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configurarion and maintain history of changes.
+
 
 Monitoring:
 -----------
@@ -78,6 +85,7 @@ Monitoring:
 * [AppDynamics](http://www.appdynamics.com/) - AppDynamics is the next generation application performance management solution that simplifies the management of complex, business-critical apps.
 * [Site 24x7](https://www.site24x7.com/) - Web Infrastructure monitoring service.
 
+
 Metric & Metric Collection:
 ---------------------------
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
@@ -93,6 +101,7 @@ Metric & Metric Collection:
 * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
 * [StatHat](http://www.stathat.com/) - StatHat is a custom stat tracking tool. One line of code gets you beautiful charts, automatic alerts, and more.
 
+
 Log Management:
 ---------------
 * [Logstash](http://logstash.net/) - Tool for managing events and logs.
@@ -103,6 +112,7 @@ Log Management:
 * [Graylog2](http://graylog2.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 
+
 IT Asset Management:
 --------------------
 * [GLPI](http://www.glpi-project.org/spip.php?lang=en) - Information Resource-Manager with an additional Administration Interface.
@@ -111,6 +121,7 @@ IT Asset Management:
 * [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
 * [Snipe IT](http://snipeitapp.com/) - Asset & license management software.
 
+
 IMAP/POP3:
 ----------
 * [Courier IMAP/POP3](http://www.courier-mta.org/imap/) - Fast, scalable, enterprise IMAP and POP3 server.
@@ -118,12 +129,14 @@ IMAP/POP3:
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
 
+
 Physical Server & VM Management:
 --------------------------------
 * [Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers.
 * [Forego](https://github.com/ddollar/forego) - Foreman in Go
 * [Honcho](https://pypi.python.org/pypi/honcho) - a python clone of Foreman. For managing Procfile-based applications.
 * [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
+
 
 Linux Managers & Hosting Control Panels:
 -----------------------
@@ -134,6 +147,7 @@ Linux Managers & Hosting Control Panels:
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
 * [Webmin](http://www.webmin.com/) - Webmin is a web-based interface for system administration for Unix.
+
 
 DNS:
 ----
@@ -147,6 +161,7 @@ DNS:
 * [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 * [Yadifa](http://yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
+
 LDAP:
 -----
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
@@ -158,6 +173,7 @@ OpenLDAP.
 * [OpenLDAP](http://openldap.org/) - Developed by the OpenLDAP Project.
 * [Fusion Directory](http://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on  OpenLDAP.
 
+
 Version Control:
 ----------------
 * Git
@@ -165,11 +181,13 @@ Version Control:
 * Mercurial
 * CVS
 
+
 Packaging:
 ----------
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
+
 
 NoSQL:
 ------
@@ -190,6 +208,7 @@ NoSQL:
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
+
 Distributed Filesystems:
 ------------------------
 * [Ceph](http://ceph.com/) - Distributed object store and file system.
@@ -208,6 +227,7 @@ Docker Tools:
 ------------
 * [Flynn](https://github.com/flynn/pinkerton)
 
+
 Testing:
 --------
 * Selenium
@@ -217,10 +237,12 @@ Testing:
 * Siege
 * Simpletest
 
+
 Code Analysis:
 --------------
 * Code Sniffer
 * Sonar
+
 
 Linux Utility:
 --------------
@@ -250,6 +272,7 @@ Linux Utility:
 * find
 * bash
 
+
 Editors:
 --------
 * Geany
@@ -260,12 +283,14 @@ Editors:
 * Nano
 * PhpStorm
 
+
 Frontend:
 ---------
 * [Strapfork](http://strapfork.com/)
 * [Jetstrap](https://jetstrap.com)
 * [BSCSS](http://bscss.csspatterns.com/)
 * [Speedometer](http://browserbench.org/Speedometer/)
+
 
 Drupal:
 -------
@@ -279,15 +304,18 @@ from any branches and tag it per deployment. If deployment status is not ok you 
 * [Dreditor](https://dreditor.org/) - Dreditor (short for "Drupal editor" and pronounced /'dɹɛdɪtə/) started as a simple idea for a (greasemonkey) browser user script to help module maintainers, Drupal core maintainers, and developers in general to review patches on http://drupal.org.
 * [TryDrupal8](http://trydrupal8.com/) - An online Drupal 8 sandbox.
 
+
 Drupal Hosting:
 ---------------
 * [Acquia](http://acquia.com/)
 * [Pantheon](http://getpantheon.com)
 * [Platform.sh](http://platform.sh)
 
+
 Maps:
 -----
 * [MapBuildr](http://mapbuildr.com/)
+
 
 API Builder:
 ------------
@@ -295,6 +323,7 @@ API Builder:
 * [MongoLab](https://mongolab.com/)
 * [APIary](http://apiary.io/)
 * [Kimonolabs](https://www.kimonolabs.com/)
+
 
 HTTP Forwarding (Local Tunnel to Web):
 --------------------------------------
@@ -309,10 +338,12 @@ HTTP Forwarding (Local Tunnel to Web):
 * [Forward](https://forwardhq.com/)
 * [Ultrahook](http://www.ultrahook.com/)
 
+
 Real-Time Engine:
 ---------------
 * [Ratchet](http://socketo.me/)
 * [SocketIO](http://socket.io/)
+
 
 Newsletters:
 ------------
@@ -320,6 +351,7 @@ Newsletters:
 * [phpList](http://www.phplist.com/) - Newsletter manager written in PHP.
 * [phpList](http://www.phplist.com/) - phpList is one of the most popular open source mailing list manager that has a capability of sending newsletters, news, messages to a huge number of subscribers.
 * [OpenEMM](http://www.openemm.org/) - OpenEMM is a feature-rich web-based enterprise application for email marketing, newsletters and service mails (transaction mails and event or time triggered mails).
+
 
 Software Development Methodologies:
 -----------------------------------
@@ -344,6 +376,7 @@ Software Development Methodologies:
 * DDD
 * MDD
 
+
 Software Development Core Activities:
 -------------------------------------
 * [Requirements](http://en.wikipedia.org/wiki/Requirements_analysis) - Encompasses those tasks that go into determining the needs or conditions to meet for a new or altered product, taking account of the possibly conflicting requirements of the various stakeholders, analyzing, documenting, validating and managing software or system requirements.
@@ -356,24 +389,30 @@ Software Development Core Activities:
 * [Deployment](http://en.wikipedia.org/wiki/Software_deployment) - All of the activities that make a software system available for use.
 * [Maintenance](http://en.wikipedia.org/wiki/Software_maintenance) - The modification of a software product after delivery to correct faults, to improve performance or other attributes.
 
+
 Some extra technique:
 ---------------------
 $ natpmpc -a 9077 9000 tcp 36000 - which will forward 9077 to 9000 for 3600 seconds.
+
 
 Teaching:
 ---------
 * [Open Sankore](http://open-sankore.org/)
 
+
 Chrome:
 -------
 * [Commandline API](https://developer.chrome.com/devtools/docs/commandline-api#debugfunction)
+
 
 SVN Tip:
 --------
 `svn status | grep -e '^ G     ' | awk '{print $2}' | xargs svn revert`
 
+
 Git Tip:
 --------
+
 
 Credits:
 --------
