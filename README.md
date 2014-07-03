@@ -466,6 +466,16 @@ Troubleshooting:
 * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 
 
+Project Management:
+-------------------
+* [ChiliProject](https://www.chiliproject.org) - Fork of Redmine.
+* [GitLab](https://www.gitlab.com/) - Clone of GitHub written in ruby.
+* [Gogs](http://gogs.io/) - Written in Go.
+* [Redmine](http://www.redmine.org/) - Written in ruby on rails.
+* [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
+* [Trac](http://trac.edgewall.org/) - Written in python.
+
+
 Software Development Methodologies:
 -----------------------------------
 * Waterfall
