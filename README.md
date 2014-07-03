@@ -22,6 +22,14 @@ Orchestration, Configuration Management & DevOps Tools:
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
 
 
+Configuration Management Database:
+----------------------------------
+* [i-doit](http://www.i-doit.org/) - Open Source IT Documentation and CMDB.
+* [iTop](http://www.combodo.com/-Overview-.html) - A complete open source, ITIL, web based service management tool.
+* [Ralph](https://github.com/allegro/ralph) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks.
+* [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
+
+
 Continuous Integration:
 -----------------------
 * [Jenkins](http://jenkins-ci.org/) - An extendable open source continuous integration server.
