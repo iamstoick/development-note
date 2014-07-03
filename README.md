@@ -190,6 +190,20 @@ NoSQL:
   * [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
   * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
+Distributed Filesystems:
+------------------------
+* [Ceph](http://ceph.com/) - Distributed object store and file system.
+* [DRBD](http://www.drbd.org/) - Disributed Replicated Block Device.
+* [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
+* [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
+* [Lustre](http://lustre.opensfs.org/) -  A type of parallel distributed file system, generally used for large-scale cluster computing.
+* [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
+* [MogileFS](http://mogilefs.org/) - Application level, network distributed file system.
+* [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
+* [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
+* [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
+
+
 Docker Tools:
 ------------
 * [Flynn](https://github.com/flynn/pinkerton)
