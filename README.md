@@ -235,6 +235,35 @@ Distributed Filesystems:
 * [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
 
+Cloning:
+--------
+* [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
+* [Fog](http://www.fogproject.org/) - Another computer cloning solution.
+* [Redo Backup](http://redobackup.org/) - Easy Backup, Recovery and Restore.
+
+
+Cloud Computing:
+-------------------
+* [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
+* [CloudStack](http://cloudstack.apache.org/) - Cloud computing software for creating, managing, and deploying infrastructure cloud services.
+* [Eucalyptus](https://www.eucalyptus.com/) - Open source private cloud software with AWS compatibility.
+* [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
+* [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+* [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
+* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
+* [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
+
+
+Cloud Orchestration:
+-----------------------
+* [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
+* [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
+* [MCollective](http://puppetlabs.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
+* [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
+* [Rundeck](http://rundeck.org/) - Simple orchestration tool.
+* [Salt](http://www.saltstack.com/) - It's written in Python.
+
+
 Cloud Storage:
 -----------------
 * [git-annex assistant](http://git-annex.branchable.com/assistant/) - A synchronised folder on each of your OSX and Linux computers, Android devices, removable drives, NAS appliances, and cloud services.
