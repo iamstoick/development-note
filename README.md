@@ -96,10 +96,19 @@ IMAP/POP3:
 * [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily with security in mind.
 * [Qpopper](http://www.eudora.com/products/unsupported/qpopper/) - One of the oldest and most popular server implementations of POP3.
 
-Administration:
----------------
-* Webmin
-* Foreman
+Physical Server & VM Management:
+--------------------------------
+* [Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers.
+
+Linux Managers & Hosting Control Panels:
+-----------------------
+* [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
+* [Feathur](http://feathur.com) - VPS Provisioning and Management Software.
+* [ISPConfig](http://www.ispconfig.org) - Hosting control panel for Linux.
+* [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
+* [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
+* [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
+* [Webmin](http://www.webmin.com/) - Webmin is a web-based interface for system administration for Unix.
 
 LDAP:
 -----
