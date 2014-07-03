@@ -233,6 +233,15 @@ XMPP:
 * [Tigase](https://projects.tigase.org/projects/tigase-server) - XMPP server implementation in Java.
 
 
+Web:
+----
+* [Apache](http://httpd.apache.org/) - Most popular web server.
+* [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
+* [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
+* [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
+* [uWSGI](https://github.com/unbit/uwsgi/) - The uWSGI project aims at developing a full stack for building hosting services.
+
+
 Packaging:
 ----------
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
