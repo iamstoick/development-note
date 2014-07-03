@@ -295,6 +295,11 @@ Collaborative Software:
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
 
 
+Security:
+---------
+* [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+
+
 Docker Tools:
 ------------
 * [Flynn](https://github.com/flynn/pinkerton)
