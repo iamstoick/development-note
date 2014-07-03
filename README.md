@@ -576,6 +576,36 @@ Git Tip:
 --------
 
 
+Blogs:
+------
+* [Code as Craft](http://codeascraft.com/) - Etsy's Ops blog, lots of technical posts.
+* [DevOpsGuys](http://blog.devopsguys.com/) - Devops consultants who blog about operations.
+* [Rackspace Developers](http://developer.rackspace.com/blog/) - Slightly biased blog with lots of Devops Topics.
+
+
+## Books
+*Sysadmin related books.*
+
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
+* [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.
+* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) - Is a methodology designed to jumpstart implementation of controls and process improvement.
+* [UNIX and Linux System Administration Handbook](http://www.admin.com/) - Approaches system administration from a practical perspective.
+
+Editors:
+--------
+* [Atom](https://atom.io/) - A hackable text editor from Github.
+* [Brackets](http://brackets.io/) - Open source code editor for web designers and front-end developers.
+* [Eclipse](http://eclipse.org/) - IDE written in Java with an extensible plug-in system.
+* [Geany](http://www.geany.org/) - GTK2 text editor.
+* [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
+* [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
+* [ICEcoder](http://icecoder.net) - Code editor awesomeness, built with common web languages.
+* [jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+* [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
+* [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
+
+
 Credits:
 --------
 * [kahun](https://github.com/kahun/awesome-sysadmin)
