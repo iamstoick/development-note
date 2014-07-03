@@ -99,6 +99,8 @@ IMAP/POP3:
 Physical Server & VM Management:
 --------------------------------
 * [Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers.
+* [Forego](https://github.com/ddollar/forego) - Foreman in Go
+* [Honcho](https://pypi.python.org/pypi/honcho) - a python clone of Foreman. For managing Procfile-based applications.
 
 Linux Managers & Hosting Control Panels:
 -----------------------
