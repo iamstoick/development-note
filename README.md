@@ -36,6 +36,7 @@ Continuous Integration:
 * [Apache Continuum](http://continuum.apache.org/) - Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems.
 * [Apache Gump](http://gump.apache.org/) - Continuous integration tool.
 * [Travis CI](https://travis-ci.org/) - A distributed build system for the open source community.
+* [Circle CI](https://circleci.com/)
 * [CruiseControl.rb](http://cruisecontrolrb.thoughtworks.com/) - Lightweight, Ruby-based continuous integration server that can build any codebase, not only Ruby; released under Apache Licence 2.0.
 * [CABIE](https://code.google.com/p/cabie/) - (Continuous Automated Build and Integration Environment) Open source, written in Perl.
 * [Buildbot](http://buildbot.net/) - Python/Twisted-based continuous build system.
@@ -221,6 +222,7 @@ VPN:
 * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
 * [strongSwan](http://www.strongswan.org/) - Complete IPsec implementation for Linux.
 * [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
+* [ZeroTier One] (https://www.zerotier.com/) - Network Virtualization Everywhere
 
 
 XMPP:
