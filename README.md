@@ -368,6 +368,9 @@ Security:
 Docker Tools:
 ------------
 * [Flynn](https://github.com/flynn/pinkerton)
+* [Fig](http://www.fig.sh/) - fig up.
+* [Flocker](https://clusterhq.com/) - Flocker can migrate a container and its associated volume from one physical node to another and re-route network traffic.
+* [Kdocker-Web](http://tsaikd.org/kdocker-web/#{"tab":"Config"}) - a Web-based UI for dockers management. (MIT)
 
 
 Testing:
