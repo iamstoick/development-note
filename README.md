@@ -258,6 +258,7 @@ Packaging:
 * [fpm](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 * [omnibus-ruby](https://github.com/opscode/omnibus-ruby) - Full stack, cross distro packaging software (Ruby).
 * [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
+* [ghr](http://tcnksm.github.io/ghr/) - Easily ship your project to your user using Github Releases (Go).
 
 
 NoSQL:
@@ -343,6 +344,7 @@ Cloud Storage:
 * [SparkleShare](http://sparkleshare.org/) - Provides cloud storage and file synchronization services. By default, it uses Git as a storage backend.
 * [Swift](http://docs.openstack.org/developer/swift/) - A highly available, distributed, eventually consistent object/blob store.
 * [Syncthing](http://syncthing.net/) - Open Source system for private, encrypted and authenticated distrobution of data.
+* [Dropbox](https://www.dropbox.com/) - dropbox for business.
 
 
 Collaborative Software:
@@ -352,7 +354,11 @@ Collaborative Software:
 * [Kolab](https://www.kolab.org) - Another groupware suite.
 * [SOGo](https://www.sogo.nu/) -  Collaborative software server with a focus on simplicity and scalability.
 * [Zimbra](https://www.zimbra.com/community/) - Collaborative software suite, that includes an email server and web client.
-
+* [Botbot.me](https://botbot.me/) - makes IRC logs awesome.
+* [Slack](https://slack.com/) - a platform for team communication.
+* [Hipchat](https://www.hipchat.com/) - bring your team to life.
+* [Trello](https://trello.com) - is the free, flexible, and visual way to organize anything with anyone.
+* [Hackpad](https://hackpad.com) - Collaborate instantly.
 
 Security:
 ---------
