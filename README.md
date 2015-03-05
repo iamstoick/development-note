@@ -1,6 +1,6 @@
 Software Development Notes
 ==========================
-
+[![status](https://sourcegraph.com/api/repos/github.com/mingderwang/development-note/.badges/status.svg)](https://sourcegraph.com/github.com/mingderwang/development-note)
 ## Please fork and contribute.
 
 Orchestration, Configuration Management & DevOps Tools:
