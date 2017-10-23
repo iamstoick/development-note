@@ -616,6 +616,9 @@ Editors:
 * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
 * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
 
+CLI Sharing:
+------------
+* [Tmate] (https://tmate.io/) - Instant terminal sharing.
 
 Credits:
 --------
