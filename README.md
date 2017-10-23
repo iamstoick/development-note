@@ -618,7 +618,7 @@ Editors:
 
 CLI Sharing:
 ------------
-* [Tmate] (https://tmate.io/) - Instant terminal sharing.
+* [Tmate](https://tmate.io/) - Instant terminal sharing.
 
 Credits:
 --------
