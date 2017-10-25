@@ -53,6 +53,7 @@ Build and Deployment:
 * [Docker](http://www.docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 * [Flyway](http://flywaydb.org/) - Flyway is an open-source database migration tool.
 * [Gradle](http://www.gradle.org/) - Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
+* [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
 
 
 Software Containers:
