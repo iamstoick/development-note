@@ -156,6 +156,7 @@ Physical Server & VM Management:
 * [Forego](https://github.com/ddollar/forego) - Foreman in Go
 * [Honcho](https://pypi.python.org/pypi/honcho) - a python clone of Foreman. For managing Procfile-based applications.
 * [Vagrant](http://www.vagrantup.com) - Vagrant is free and open-source software for creating and configuring virtual development environments.
+* [Lando](https://github.com/lando/lando)
 
 
 Linux Managers & Hosting Control Panels:
