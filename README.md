@@ -631,6 +631,10 @@ Aggregated Docs:
 ----------------
 * [DevDocs](http://devdocs.io)
 
+CSV To JSON:
+------------
+* [PapaParse](http://papaparse.com/) - The powerful, in-browser CSV parser for big boys and girls.
+
 Credits:
 --------
 * [kahun](https://github.com/kahun/awesome-sysadmin)
