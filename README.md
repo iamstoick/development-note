@@ -641,6 +641,7 @@ CSV To JSON:
 Javascript:
 -----------
 * [popmotion](https://popmotion.io/) - A functional JavaScript motion library.
+* [poi](https://poi.js.org) -  Delightful web development for Front-end App.
 
 Credits:
 --------
