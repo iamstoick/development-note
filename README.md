@@ -638,6 +638,10 @@ CSV To JSON:
 ------------
 * [PapaParse](http://papaparse.com/) - The powerful, in-browser CSV parser for big boys and girls.
 
+Javascript:
+-----------
+* [popmotion](https://popmotion.io/) - A functional JavaScript motion library.
+
 Credits:
 --------
 * [kahun](https://github.com/kahun/awesome-sysadmin)
