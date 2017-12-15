@@ -384,6 +384,7 @@ Testing:
 * Siege
 * Simpletest
 * [Cypress](https://www.cypress.io/)
+* [Locust](https://locust.io/) - An open source load testing tool.
 
 
 Code Analysis:
