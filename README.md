@@ -636,7 +636,7 @@ Aggregated Docs:
 * [DevDocs](http://devdocs.io)
 * [tldr](http://tldr.sh/) - Simplified and community-driven man pages.
 
-CSV To JSON:
+Data Parser:
 ------------
 * [PapaParse](http://papaparse.com/) - The powerful, in-browser CSV parser for big boys and girls.
 
