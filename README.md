@@ -634,6 +634,7 @@ CMS:
 Aggregated Docs:
 ----------------
 * [DevDocs](http://devdocs.io)
+* [tldr](http://tldr.sh/) - Simplified and community-driven man pages.
 
 CSV To JSON:
 ------------
